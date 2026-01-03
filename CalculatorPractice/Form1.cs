@@ -20,6 +20,7 @@ namespace CalculatorPractice
 
         }
 
+        //add Button
         private void Addition_Click(object sender, EventArgs e)
         {
             double a, b;
