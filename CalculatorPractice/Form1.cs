@@ -50,6 +50,7 @@ namespace CalculatorPractice
         {
         }
 
+        //clear button added
         private void ClearBtn_Click(object sender, EventArgs e)
         {
             TxtBox1.Clear();
