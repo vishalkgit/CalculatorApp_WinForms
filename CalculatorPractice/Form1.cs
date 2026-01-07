@@ -76,6 +76,7 @@ namespace CalculatorPractice
             }
         }
 
+        //added mul button
         private void Mul_Click(object sender, EventArgs e)
         {
             double a, b;
