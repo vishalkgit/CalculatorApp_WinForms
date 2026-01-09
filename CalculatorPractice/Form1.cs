@@ -94,6 +94,7 @@ namespace CalculatorPractice
             }
         }
 
+        //added divide button
         private void Divide_Click(object sender, EventArgs e)
         {
             double a, b;
