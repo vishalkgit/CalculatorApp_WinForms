@@ -119,6 +119,7 @@ namespace CalculatorPractice
             }
         }
 
+        //added close button
         private void Close_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Exiting application");
