@@ -120,6 +120,7 @@ namespace CalculatorPractice
         }
 
         //added close button
+        //new button
         private void Close_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Exiting application");
